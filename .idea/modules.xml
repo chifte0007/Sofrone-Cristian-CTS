@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/adapterClase/adapterClase.iml" filepath="$PROJECT_DIR$/adapterClase/adapterClase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/adapterObiecte/adapterObiecte.iml" filepath="$PROJECT_DIR$/adapterObiecte/adapterObiecte.iml" />
+      <module fileurl="file://$PROJECT_DIR$/builder/builder.iml" filepath="$PROJECT_DIR$/builder/builder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/chainOfResponsability/chainOfResponsability.iml" filepath="$PROJECT_DIR$/chainOfResponsability/chainOfResponsability.iml" />
+      <module fileurl="file://$PROJECT_DIR$/composite/composite.iml" filepath="$PROJECT_DIR$/composite/composite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/decorator/decorator.iml" filepath="$PROJECT_DIR$/decorator/decorator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/facade/facade.iml" filepath="$PROJECT_DIR$/facade/facade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/factoryMethod/factoryMethod.iml" filepath="$PROJECT_DIR$/factoryMethod/factoryMethod.iml" />
+      <module fileurl="file://$PROJECT_DIR$/flyweight/flyweight.iml" filepath="$PROJECT_DIR$/flyweight/flyweight.iml" />
+      <module fileurl="file://$PROJECT_DIR$/incarcarepegit.iml" filepath="$PROJECT_DIR$/incarcarepegit.iml" />
+      <module fileurl="file://$PROJECT_DIR$/memento/memento.iml" filepath="$PROJECT_DIR$/memento/memento.iml" />
+      <module fileurl="file://$PROJECT_DIR$/observer/observer.iml" filepath="$PROJECT_DIR$/observer/observer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/prototype/prototype.iml" filepath="$PROJECT_DIR$/prototype/prototype.iml" />
+      <module fileurl="file://$PROJECT_DIR$/proxy/proxy.iml" filepath="$PROJECT_DIR$/proxy/proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simpleFactory/simpleFactory.iml" filepath="$PROJECT_DIR$/simpleFactory/simpleFactory.iml" />
+      <module fileurl="file://$PROJECT_DIR$/singleton/singleton.iml" filepath="$PROJECT_DIR$/singleton/singleton.iml" />
+      <module fileurl="file://$PROJECT_DIR$/state/state.iml" filepath="$PROJECT_DIR$/state/state.iml" />
+      <module fileurl="file://$PROJECT_DIR$/strategy/strategy.iml" filepath="$PROJECT_DIR$/strategy/strategy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/template/template.iml" filepath="$PROJECT_DIR$/template/template.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testare11/testare11.iml" filepath="$PROJECT_DIR$/testare11/testare11.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testare12/testare12.iml" filepath="$PROJECT_DIR$/testare12/testare12.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testare13/testare13.iml" filepath="$PROJECT_DIR$/testare13/testare13.iml" />
+    </modules>
+  </component>
+</project>
